@@ -6,6 +6,7 @@ package com.github.tvbox.osc.util;
  * @description:
  */
 public class HawkConfig {
+    public static final String DEFAULT_API_URL = "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json";
     public static final String API_URL = "api_url";
     public static final String API_HISTORY = "api_history";
     public static final String HOME_API = "home_api";
